@@ -1,1 +1,1 @@
-worker: python Celestia.py
+web: python Celestia.py
